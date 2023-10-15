@@ -2,6 +2,8 @@
 
 Welcome to the Blackjack game project! This is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
 
+[Play Here!](https://marco-aldana.github.io/WEB-BlackJack/)
+
 ## Table of Contents
 
 - [Demo](#demo)
@@ -13,7 +15,7 @@ Welcome to the Blackjack game project! This is a simple implementation of the cl
 
 ## Demo
 
-You can try out the game by visiting the live demo [Coming Soon].
+You can try out the game by visiting the live demo [Play Here!](https://marco-aldana.github.io/WEB-BlackJack/).
 
 ![Blackjack Demo](https://raw.githubusercontent.com/Marco-Aldana/WEB-BlackJack/main/assets/demo/Blackjack.gif)
 
